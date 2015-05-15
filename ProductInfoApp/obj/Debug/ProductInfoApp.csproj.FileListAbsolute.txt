@@ -1,0 +1,17 @@
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.ProductInfoUI.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.pdb
+G:\ASP.NET Course Code\Lab Practice\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.exe.config
+G:\ASP.NET Course Code\Lab Practice\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.exe
+G:\ASP.NET Course Code\Lab Practice\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.pdb
+G:\ASP.NET Course Code\Lab Practice\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.exe
+G:\ASP.NET Course Code\Lab Practice\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.pdb
+G:\ASP.NET Course Code\Lab Practice\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.csprojResolveAssemblyReference.cache
+G:\ASP.NET Course Code\Lab Practice\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.ProductInfoUI.resources
+G:\ASP.NET Course Code\Lab Practice\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.Properties.Resources.resources
+G:\ASP.NET Course Code\Lab Practice\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.csproj.GenerateResource.Cache
